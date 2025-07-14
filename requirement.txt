@@ -6,7 +6,7 @@ plotly
 seaborn
 scikit-learn
 pymongo
-from_root
+from-root
 dill
 certifi
 PyYAML
@@ -40,4 +40,5 @@ sse_starlette
 mlflow
 seaborn
 dagshub
+from_root
 -e .
